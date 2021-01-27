@@ -41,17 +41,15 @@ Second :star:
 ### CV
 <ul>
 
-<li>Federated model distillation with noise-free differential privacy<a href="https://arxiv.org/pdf/2009.05537">[paper]</a>
+<li>:star:Federated model distillation with noise-free differential privacy<a href="https://arxiv.org/pdf/2009.05537">[paper]</a>
 
 <li>FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning<a href="https://openreview.net/pdf?id=dgtpE6gKjHn">[paper]</a>
 
-<li>FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning<a href="https://openreview.net/pdf?id=dgtpE6gKjHn">[paper]</a>
-
-<li>FedMD: Heterogenous Federated Learning via Model Distillation<a href="https://arxiv.org/pdf/1910.03581.pdf">[paper]</a><a href="https://github.com/diogenes0319/FedMD_clean">[code]</a>
+<li>:star:FedMD: Heterogenous Federated Learning via Model Distillation<a href="https://arxiv.org/pdf/1910.03581.pdf">[paper]</a><a href="https://github.com/diogenes0319/FedMD_clean">[code]</a>
 
 <li>Federated Learning with Heterogeneous Labels and Models for Mobile Activity Monitoring<a href="https://arxiv.org/pdf/2012.02539">[paper]</a>
 
-<li>Federated Mutual Learning<a href="https://arxiv.org/pdf/2006.16765">[paper]</a>
+<li>:star:Federated Mutual Learning<a href="https://arxiv.org/pdf/2006.16765">[paper]</a>
 
 <li>Knowledge Federation: A Unified and Hierarchical Privacy-Preserving AI Framework <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9194566">[paper]</a>
 
