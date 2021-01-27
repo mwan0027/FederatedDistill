@@ -9,10 +9,26 @@ Top: :star2:
 Second :star: 
 
 ## Recent Federated Knowledge Distillation
+<ul>
 <li>:star2:Federated Knowledge Distillation (Not published yet)<a href="https://arxiv.org/pdf/2011.02367.pdf">[paper]</a>
 
 <li>:star2:Communication-Efficient Federated Distillation
 <a href="https://arxiv.org/pdf/2012.00632">[paper]</a>
+</ul>
+
+## Recent FL framework similar to KD
+<ul>
+<li>:star:Split learning for health: Distributed deep learning without sharing raw patient data <a href="https://proceedings.neurips.cc/paper/2020/file/a1d4c20b182ad7137ab3606f0e3fc8a4-Paper.pdf">[paper]</a>
+
+<li>:star:Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge <a href="https://proceedings.neurips.cc/paper/2020/file/a1d4c20b182ad7137ab3606f0e3fc8a4-Paper.pdf">[paper]</a>
+
+<!-- <li>Split learning for collaborative deep learning in healthcare<a href="https://arxiv.org/pdf/1912.12115">[paper]</a>
+
+<li>Splitfed: When federated learning meets split learning<a href="https://arxiv.org/pdf/2004.12088">[paper]</a>
+
+<li>Detailed comparison of communication efficiency of split learning and federated learning <a href="https://arxiv.org/pdf/1909.09145">[paper]</a> -->
+
+</ul>
 
 ## FL Surveys
 <ul>
@@ -56,6 +72,14 @@ Second :star:
 <li>Wireless federated distillation for distributed edge learning with heterogeneous data<a href="https://arxiv.org/pdf/1907.02745">[paper]</a>
 
 <li>Communication-efficient on-device machine learning: Federated distillation and augmentation under non-iid private data<a href="https://arxiv.org/pdf/1811.11479">[paper]</a>
+
+<li>Performance Optimization for Federated Person
+Re-identification via Benchmark Analysis<a href="https://arxiv.org/pdf/2008.11560.pdf">[paper]</a> [KD as optimization tool section 5]
+
+<li>KD3A: Unsupervised Multi-Source Decentralized Domain Adaptation via
+Knowledge Distillation<a href="https://arxiv.org/pdf/2011.09757.pdf">[paper]</a> 
+
+<li>Real-Time Decentralized knowledge Transfer at the Edge<a href="https://arxiv.org/pdf/2011.05961.pdf">[paper]</a> 
 
 </ul>
 
